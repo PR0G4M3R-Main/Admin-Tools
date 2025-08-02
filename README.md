@@ -1,2 +1,15 @@
-# Admin-Tools
-Administrative tools for computer care. See README
+Easily modifiable admin tools for everything from system, rig, and network info to diagnostics and repair. 
+
+To add a custom command:
+Just drop in a `.bat` file with your logic and name it after the command you'd like (e.g. `SystemClean.bat` shows up as `system clean`).
+
+Usage:
+You may use, modify, and distribute this program for any purpose, provided that **you credit the original author**.
+
+Requirements:
+  System: Windows 10-11
+  Path Variables: ipconfig, sfc, chkdsk
+  Privileges: Administrator
+
+Disclaimer:
+I am not liable for any misuse of this program in illegal or unethical contexts.

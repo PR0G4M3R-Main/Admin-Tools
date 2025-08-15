@@ -15,3 +15,5 @@ Disclaimer:
 I am not liable for any misuse of this program in illegal or unethical contexts.
 
 NOTE: The SystemBoost command disables certain Windows Defender scheduled tasks to improve performance. This may reduce system protection. Use at your own risk… and seriously, don’t download malware.
+
+Download Link: https://drive.google.com/file/d/1-NKkjKTfZQHQz3gGn_QscHuAUIqIjjof/view?usp=drive_link
